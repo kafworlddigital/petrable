@@ -2,7 +2,7 @@
 
 **An open-source iOS and macOS app that builds apps.
 
-![Petrable launch video](docs/petrable-launch-video.mp4)
+![Petrable showcase video](docs/petrable-showcase.mp4)
 ** Type a prompt → a free AI model writes the code →
 it goes live in the cloud → you preview it right inside the app. Web apps run in
 [Daytona](https://daytona.io) sandboxes; native iOS apps are compiled by
